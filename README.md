@@ -33,6 +33,7 @@ https://github.com/ktaejung01/Dischager_DL24/releases
 
 Please use -x86.exe if you are running 32-bit windows.
 
+![캡처02](https://github.com/ktaejung01/Dischager_DL24/assets/83075594/26b18166-2760-4dea-a94c-c8ba60aae2b8)
 
 
 ![004](https://github.com/ktaejung01/Dischager_DL24/assets/83075594/c495ee0a-db04-4561-86c6-659a64f253c1)
