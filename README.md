@@ -21,18 +21,11 @@
 
 ## Windows
 
-An installer can be downloaded from the [releases section](https://github.com/misdoro/Electronic_load_px100/releases/latest)
+An installer can be downloaded from the [releases section]https://github.com/ktaejung01/Dischager_DL24/releases/tag/discharger
 
 Please use -x86.exe if you are running 32-bit windows.
 
-## Linux / macOS
 
-Python is required to run this software. Version 3.6 or newer is required.
-
-Run the following line in terminal to install dependencies:
-```
-pip install --user -r requirements.txt
-```
 
 Then run
 ```
