@@ -1,3 +1,10 @@
+
+네이버 DIY 꾼&족에 서둘러 가입 하셔요 유익하고 다양한 정보 상시 대기 즁 이옵니다!!
+
+https://cafe.naver.com/diyneeting
+
+
+
 # DL24 방전기(150W) 전용 Software
 150W load / 밧데리 용량 테스터 DL24 - 블루투스 프로토콜 control software.
 
