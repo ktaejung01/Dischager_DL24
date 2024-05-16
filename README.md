@@ -33,3 +33,4 @@ python main.py
 ```
 to execute the control program.
 
+![004](https://github.com/ktaejung01/Dischager_DL24/assets/83075594/c495ee0a-db04-4561-86c6-659a64f253c1)
