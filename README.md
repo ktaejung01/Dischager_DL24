@@ -1,21 +1,21 @@
-# Electronic_load_px100
-150W Electronic load / Battery discharge capacity tester PX-100 protocol and control software.
+# DL24 방전기(150W) 전용 Software
+150W load / 밧데리 용량 테스터 DL24 - 블루투스 프로토콜 control software.
 
-Tested to work with board revisions 2.70 and 2.8
+보드 버젼 2.70 and 2.8
 
 # Binary protocol
 
-See the [v2.70 binary Protocol description](protocol_PX-100_2_70.md)
+참조 [v2.70 binary Protocol description]
 
 # Control software
 
-### Main features:
+### 주요 기능 :
 
-- Control all load features
-- Voltage and Current plot vs time
-- Save logs to CSV at exit and at device reset
-- Internal resistance measurement at user-defined voltage steps
-- Software-defined CC-CV discharge to speed up capacity tests for low current discharge
+- PC에서 모든 기능 원격제어 - 블루투스 필수 
+- 정밀한 시간 별 전압 & 전류 량 측정
+- 로그 값 txt 및 CSV 저장 - 재시작 시 자동 저장
+- 재생/중고 밧데리 부활 특효 -내부 저항 스텝 단위로 가변 전압 부여 
+- 세밀한 CC-CV 설정 - Software-defined 
 
 # Installing
 
