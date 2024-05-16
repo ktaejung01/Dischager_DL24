@@ -29,6 +29,7 @@ https://cafe.naver.com/diyneeting
 ## Windows
 
 An installer can be downloaded from the [releases section]
+https://github.com/ktaejung01/Dischager_DL24/releases
 
 Please use -x86.exe if you are running 32-bit windows.
 
